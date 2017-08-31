@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1504127828 source:c:\users\ra_ri\onedrive\uenp\so\nru\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MemoriaLogica.h"
+
+1504126378 c:\users\ra_ri\onedrive\uenp\so\nru\memorialogica.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1504126409 source:c:\users\ra_ri\onedrive\uenp\so\nru\memorialogica.c
+	"MemoriaLogica.h"
+
+1504127975 source:c:\users\ra_ri\onedrive\uenp\so\nru\memoriafisica.c
+	"MemoriaFisica.h"
+
+1504127940 c:\users\ra_ri\onedrive\uenp\so\nru\memoriafisica.h
+	<stdio.h>
+
+1504141585 source:c:\users\lucas\desktop\nru\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MemoriaLogica.h"
+	"MemoriaFisica.h"
+
+1504143677 c:\users\lucas\desktop\nru\memorialogica.h
+	"MemoriaFisica.h"
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1504143677 source:c:\users\lucas\desktop\nru\memoriafisica.c
+	"MemoriaFisica.h"
+
+1504137262 c:\users\lucas\desktop\nru\memoriafisica.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1504143677 source:c:\users\lucas\desktop\nru\memorialogica.c
+	"mmu.h"
+	"MemoriaLogica.h"
+
+1504143677 source:c:\users\lucas\desktop\nru\mmu.c
+	"mmu.h"
+	"MemoriaLogica.h"
+	"MemoriaFisica.h"
+
+1504139608 c:\users\lucas\desktop\nru\mmu.h
+	"MemoriaLogica.h"
+	<stdio.h>
+
+1504183730 source:d:\nru\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MemoriaLogica.h"
+	"MemoriaFisica.h"
+
+1504143678 d:\nru\memorialogica.h
+	"MemoriaFisica.h"
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1504180046 d:\nru\memoriafisica.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1504183262 source:d:\nru\memoriafisica.c
+	"MemoriaFisica.h"
+	"mmu.h"
+
+1504182372 source:d:\nru\memorialogica.c
+	"mmu.h"
+	"MemoriaLogica.h"
+
+1504181492 d:\nru\mmu.h
+	"MemoriaLogica.h"
+	<stdio.h>
+
+1504183730 source:d:\nru\mmu.c
+	"mmu.h"
+	"MemoriaLogica.h"
+	"MemoriaFisica.h"
+
